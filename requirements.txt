@@ -2,6 +2,5 @@ streamlit
 geopandas
 matplotlib
 shapely
-zipfile
-os
-tempfile
+
+
